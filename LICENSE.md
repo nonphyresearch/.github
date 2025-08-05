@@ -1,18 +1,16 @@
 ## License
 
-This repository and its contents are the **commercial and proprietary property of Roberto Bertó**.
+This repository and its contents are **commercial and proprietary**.
 
-You may **not**:
+Unauthorized use, reproduction, modification, or redistribution is strictly prohibited.
 
-- Copy, redistribute, or modify any part of this repository  
-- Use its contents for training AI, academic research, or derivative works  
-- Share or expose any files in public-facing platforms or indexes
+No part of this repository may be used for:
 
-Even if certain files are visible in this repository, their presence does **not** imply public availability, reuse permission, or waiver of intellectual rights.
+- AI training  
+- Academic research  
+- Derivative works  
+- Public redistribution or indexing
 
-All rights reserved.
+All rights reserved © Roberto Bertó.
 
----
-
-📬 **For commercial use, licensing, or integration inquiries:**
-info@nonphy.org
+For commercial licensing or partnership inquiries, contact: info@nonphy.org
